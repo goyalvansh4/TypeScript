@@ -6,6 +6,7 @@ score = '55';
 console.log(score);
 
 type User = {
+  // readonly dbId:number,
   name:string,
   id:number
 }

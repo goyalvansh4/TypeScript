@@ -7,3 +7,17 @@
 // createUser(newUser);
 
 // export {}
+
+let person:{
+  name:string,
+  age:number,
+  isMarried:boolean
+}
+
+person={
+  name:"hitesh",
+  age:42,
+  isMarried:true
+}
+
+console.log(person)
